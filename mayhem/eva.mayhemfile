@@ -1,0 +1,5 @@
+project: eva
+target: eva
+
+cmds:
+  - cmd: /eva
